@@ -1,6 +1,6 @@
 # <img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" height="25">/ma7Tos
  
- _My name is Felipe Mattos, 29, and I'm returning to my studies on programming after some years away. I had my first contact with codes more then 10 years ago hen I entered in a Game Development college, due to personal reasons I never finish it. Today I'm a professional in the electrical and industrial automation area, with knowledge ineletronics and high voltage and currently wotk in a big national Industrial Automation company. I have contact with SQL Database and Ladder language for Rockwell PLCs. I started my bachelor's degree in Electrical Engineering 1 year ago, and now I intend to improve myself professionally, geting back into contact with codes and expanding my areas of knowledge._
+ _My name is Felipe Mattos, 30, and I'm returning to my studies on programming after some years away. I had my first contact with codes more then 10 years ago hen I entered in a Game Development college, due to personal reasons I never finish it. Today I'm a professional in the electrical and industrial automation area, with knowledge ineletronics and high voltage and currently wotk in a big national Industrial Automation company. I have contact with SQL Database and Ladder language for Rockwell PLCs. I started my bachelor's degree in Electrical Engineering 1 year ago, and now I intend to improve myself professionally, geting back into contact with codes and expanding my areas of knowledge._
 
  _I love music, games, cats, and I'm a die hard Star Wars fan!_
 
