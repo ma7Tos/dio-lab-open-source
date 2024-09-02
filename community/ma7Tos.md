@@ -58,6 +58,10 @@
 
 - Algoritmos e Lógica de Programação
 
+<img src="https://images.squarespace-cdn.com/content/v1/631f784b2a1c9b79d2b3f734/44391c01-cf73-49be-b56c-79d3dc848727/WAGO_LOGO_RGB.png?format=1500w" height="30">
+
+- Codesys 3.5 
+
 <img src="https://www.sp.senai.br/images/senai.svg" height="30">
 
 - CLP e Programação em Linguagem Ladder Básico
